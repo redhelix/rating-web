@@ -82,7 +82,7 @@ html {
   padding-bottom: 10px;
 }
 .credits-other {
-  padding-bottom: 10px;
+  padding-bottom: 10px; 
 }
 
 .footspace {
